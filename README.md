@@ -1,12 +1,11 @@
 ## Hi there 👋
 
-# 💫 About Me:
-🔭 I’m currently working on data science, machine learning, and AI projects as part of my MSc in Data Science & Artificial Intelligence at the University of Liverpool<br>
-👯 I’m looking to collaborate on data science, ML, and analytics projects (finance, automotive, or real-world business problems)<br>
-🤝 I’m looking for help with advanced machine learning, model optimisation, and real-world datasets<br>
-🌱 I’m currently learning Data Science & AI at master’s level (Python, ML, statistics, databases)<br>
-💬 Ask me about Python, data analysis, beginner ML, or portfolio building<br>
-⚡Fun fact: I love cars, doggos (especially Freya 🐾), and photography
+- MSc in Data Science and Artificial Intelligence at the University of Liverpool, focused on machine learning, statistical modelling, and practical data-driven solutions.
+- Open to collaboration on data science, machine learning, and analytics projects, with particular interest in finance, automotive, and real-world business problems.
+- Currently strengthening skills in advanced machine learning, model optimisation, and working with messy, real-world datasets.
+- Technical toolkit includes Python, machine learning, statistics, and database systems, developed through postgraduate study and hands-on projects.
+- Happy to connect about Python, data analysis, beginner ML, or building a strong data portfolio.
+- Outside the data world: automotive enthusiast, photography enjoyer, and dedicated handler of Freya, a very energetic German Shepherd.
 
 
 ## 🌐 Socials:
